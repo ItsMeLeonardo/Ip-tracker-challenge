@@ -1,3 +1,5 @@
+import L from "leaflet";
+
 let map;
 
 const getMap = (id) => {
